@@ -35,6 +35,80 @@ This repository contains a set of PowerShell cmdlets for developers and administ
   * Manage cloud service and role, such as CRUD, start and stop.
   * Manage extension
   * Start/Stop Azure emulator.
+  * Manage certificate.# Microsoft Azure PowerShell
+
+This repository contains a set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications.
+# Microsoft Azure PowerShell
+
+This repository contains a set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications.
+
+* For documentation on how to build and deploy applications to Microsoft Azure please see the [Microsoft Azure Documentation Center](http://azure.microsoft.com/en-us/documentation/).
+* For comprehensive documentation on the developer cmdlets see [How to install and configure Azure PowerShell](http://azure.microsoft.com/en-us/documentation/articles/install-configure-powershell/).
+* For comprehensive documentation on the full set of Microsoft Azure cmdlets see [Microsoft Azure Management Center](http://go.microsoft.com/fwlink/?linkID=254459&clcid=0x409).
+
+## Features
+
+* Account
+  * Get and import Azure publish settings
+  * Login with Microsoft account or Organizational account through Microsoft Azure Active Directory
+* Environment
+  * Get the different out-of-box Microsoft Azure environments
+  * Add/Set/Remove customized environments (like your Windows Azure Pack environments)
+  * Get Azure publish settings for a particular environment
+* Subscription
+  * Manage Azure subscription
+  * Manage AffinityGroup
+* Website
+  * Manage website, such as CRUD, start and stop.
+  * Manage slot
+  * Manage WebJob
+  * Deploy project via WebDeploy
+  * Diagnostics
+      * Configure site and application diagnostics
+      * Log streaming
+      * Save log
+* Cloud Services
+  * Create scaffolding for cloud service and role. Role support includes Node.js, PHP, Django and Cache.
+  * Manage cloud service and role, such as CRUD, start and stop.
+  * Manage extension
+  * Start/Stop Azure emulator.
+  * Manage certificate.# Microsoft Azure PowerShell
+
+This repository contains a set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications.
+# Microsoft Azure PowerShell
+
+This repository contains a set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications.
+
+* For documentation on how to build and deploy applications to Microsoft Azure please see the [Microsoft Azure Documentation Center](http://azure.microsoft.com/en-us/documentation/).
+* For comprehensive documentation on the developer cmdlets see [How to install and configure Azure PowerShell](http://azure.microsoft.com/en-us/documentation/articles/install-configure-powershell/).
+* For comprehensive documentation on the full set of Microsoft Azure cmdlets see [Microsoft Azure Management Center](http://go.microsoft.com/fwlink/?linkID=254459&clcid=0x409).
+
+## Features
+
+* Account
+  * Get and import Azure publish settings
+  * Login with Microsoft account or Organizational account through Microsoft Azure Active Directory
+* Environment
+  * Get the different out-of-box Microsoft Azure environments
+  * Add/Set/Remove customized environments (like your Windows Azure Pack environments)
+  * Get Azure publish settings for a particular environment
+* Subscription
+  * Manage Azure subscription
+  * Manage AffinityGroup
+* Website
+  * Manage website, such as CRUD, start and stop.
+  * Manage slot
+  * Manage WebJob
+  * Deploy project via WebDeploy
+  * Diagnostics
+      * Configure site and application diagnostics
+      * Log streaming
+      * Save log
+* Cloud Services
+  * Create scaffolding for cloud service and role. Role support includes Node.js, PHP, Django and Cache.
+  * Manage cloud service and role, such as CRUD, start and stop.
+  * Manage extension
+  * Start/Stop Azure emulator.
   * Manage certificate.
   * Manage cloud service extensions
     * Remote desktop
